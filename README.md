@@ -179,3 +179,10 @@ df.iloc[0]
 predict_model(best_model, user_request)
 ```
 ![image](https://user-images.githubusercontent.com/59326036/141995112-6a837277-ac16-4c31-99fd-7e380d3c5179.png)
+
+## Future improvement
+![image](https://user-images.githubusercontent.com/59326036/141995793-dffb99d4-6e06-4169-861b-eb7be37e30fa.png)
+
+## Future Research
+![image](https://user-images.githubusercontent.com/59326036/141995985-47a4528a-48ae-430b-aa1d-5be8a62efc7a.png)
+
