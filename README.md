@@ -28,7 +28,8 @@
    
 ## Target
 To predict the bank customers in a bank whether to …… 
-   ![image](https://user-images.githubusercontent.com/59326036/141981964-6bc3b2ef-3cdc-47f0-b697-66305ffae08d.png)
+
+![image](https://user-images.githubusercontent.com/59326036/141981964-6bc3b2ef-3cdc-47f0-b697-66305ffae08d.png)
 
 ## First, setup the model with pre-processing
 
